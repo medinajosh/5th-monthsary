@@ -50,7 +50,7 @@ const photos = [
   {
   src: You,
   title: 'My Favorite Person, Always 🥹💕',
-  caption: 'It’s not just your beauty, it’s your soul. I love who you are — thoughtful, strong, and everything I prayed for.'
+  caption: 'It’s not just your beauty, it’s your soul. I love who you are thoughtful, strong, and everything I prayed for.'
   }
 ];
 
